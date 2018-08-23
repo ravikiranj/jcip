@@ -3,6 +3,7 @@
 
 ## Setup
 * Install [gradle](https://gradle.org/install/)
+* Setup local gradle wrapper by running `gradle wrapper`
 * Run `./gradlew clean && ./gradlew build && ./gradlew run` - This should print "Hello world!" if it succeeded
 * In IntelliJ, create a new project - Import from existing sources and use `build.gradle`
 * [JCIP Code Listings](http://jcip.net/listings.html)
