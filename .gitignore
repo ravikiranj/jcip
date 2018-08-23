@@ -4,3 +4,6 @@ gradle/
 build/
 .gradle/
 gradlew.bat
+out/
+*.ipr
+*.iws
